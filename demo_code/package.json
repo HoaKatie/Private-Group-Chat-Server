@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "socket.io": "^4.6.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "demo_code",
+  "description": "Example of Chat Server based on Socket.io",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Katie",
+  "license": "ISC"
+}
